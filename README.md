@@ -8,13 +8,6 @@
             <img align="center" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=350&height=60&duration=4000&lines=Hello+World!+👋;+I'm+Yasmeen+Abu+Dib!;">
         </a>
 
- <p align="center">
-  <a href="https://github.com/DNXEMPIRE-1">
-    <img src="https://komarev.com/ghpvc/?username=DNXEMPIRE-1&color=blue&style=flat)" />
-  </a>
-</p> 
-</h1>
-
   <p><h3 align="center"> Third-year IT student | Al-Aqsa University
 Android Application Development Student . </h3>
       
