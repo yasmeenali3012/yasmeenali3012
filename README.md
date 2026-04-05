@@ -16,5 +16,5 @@ Android Application Development Student . </h3>
 </div>
 <img align="right" alt="Coding" width="400" src="dnxempire.gif">
 
-- 💬 Ask me about Software Development and UI/UX
+- 💬 Ask me about Software Development 
 - ⚡️
