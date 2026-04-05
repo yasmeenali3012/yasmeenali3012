@@ -5,7 +5,7 @@
 <h1> 
     <p align="center">
         <a href="https://github.com/DNXEMPIRE-1">  
-            <img align="center" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=350&height=60&duration=4000&lines=Hello+World!+👋;+I'm+Dennis+Nzioki+DNX!;">
+            <img align="center" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=350&height=60&duration=4000&lines=Hello+World!+👋;+I'm+Yasmeen+Abu+Dib!;">
         </a>
          <a href="https://github.com/DNXEMPIRE-1">   
             <img align="right" src="gif.gif" width="170">
@@ -18,7 +18,8 @@
 </p> 
 </h1>
 
-  <p><h3 align="center"> A passionate Developer/Designer from Nairobi, KE. </h3>
+  <p><h3 align="center"> Third-year IT student | Al-Aqsa University
+Android Application Development Student . </h3>
       
 <p align="center">
 🌐 The transformative impact of computer technology fascinates me, bringing unforeseen changes to our lives. Since a young age, witnessing the evolution of computer science has fueled my passion for studying software engineering. 🚀 My enthusiasm has only grown over time. Exploring new tech stacks is my love 💻, and using them to craft cool stuff is my ultimate thrill! 🛠 Let's code the future together! 🌟</p>
