@@ -28,4 +28,4 @@ Android Application Development Student . </h3>
 <img align="right" alt="Coding" width="400" src="dnxempire.gif">
 
 - 💬 Ask me about Software Development and UI/UX
-- ⚡️ Fun fact Game of Thrones Night's Watch cloaks are made from Ikea rugs
+- ⚡️
