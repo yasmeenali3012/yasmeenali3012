@@ -33,12 +33,20 @@ Android Application Development Student . </h3>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
 </p>
-📫 Connect with Me
-<p align="left">
-  📧 Email: <a href="mailto:yasmeenaalii30520055@gmail.com">yasmeenaalii30520055@gmail.com</a><br>
-  🔗 LinkedIn: <a href="https://www.linkedin.com/in/yasmeen-abu-dib-011a8334a">in/yasmeen-abu-dib-011a8334a</a><br>
-  💬 Telegram Channel: <a href="https://t.me/Eng_Yasmeen_Ali3012">Coding 💻✨</a>
-</p>
+<div align="center">
+  <a href="mailto:yasmeenaalii30520055@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/yasmeen-abu-dib-011a8334a" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://t.me/Eng_Yasmeen_Ali3012" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+</div>
+
 
 <img align="right" src="https://github.com/SankshipthShetty/SankshipthShetty/assets/99337968/2bd05422-3a3b-4d7c-94a1-7cdb584c09d7" alt="Profile Image" width="300"/>
 <p align="center">
