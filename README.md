@@ -13,9 +13,7 @@ Android Application Development Student . </h3>
 🌐 The transformative impact of computer technology fascinates me, bringing unforeseen changes to our lives. Since a young age, witnessing the evolution of computer science has fueled my passion for studying software engineering. 🚀 My enthusiasm has only grown over time. Exploring new tech stacks is my love 💻, and using them to craft cool stuff is my ultimate thrill! 🛠 Let's code the future together! 🌟</p>
 <p align="center"> </p>
 </div>
-<img align="right" alt="Coding" width="400" src="dnxempire.gif">
-
-- 💬 Ask me about Software Development 
+<!-- <img align="right" alt="Coding" width="400" src="dnxempire.gif"> -->
   
 <img align="right" src="https://github.com/SankshipthShetty/SankshipthShetty/assets/99337968/2bd05422-3a3b-4d7c-94a1-7cdb584c09d7" alt="Profile Image" width="300"/>
 <p align="center">
