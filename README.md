@@ -14,13 +14,13 @@ Android Application Development Student . </h3>
 <p align="center"> </p>
 </div>
 <img align="right" alt="Coding" width="400" src="dnxempire.gif">
-  ### 📚 Learning Resources I Use
+  📚 Learning Resources I Use
 <p align="left">
   <img src="https://img.shields.io/badge/Al-Aqsa_University-1E3A8A?style=for-the-badge&logo=google-scholar&logoColor=white"/>
   <img src="https://img.shields.io/badge/Wes-02B3E4?style=for-the-badge&logo=udacity&logoColor=white"/>
   <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white"/>
 </p>
-### 💻 Languages & Tools I Know (Basics)
+ 💻 Languages & Tools I Know (Basics)
 <p align="left">
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -33,7 +33,7 @@ Android Application Development Student . </h3>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
 </p>
-### 📫 Connect with Me
+📫 Connect with Me
 <p align="left">
   📧 Email: <a href="mailto:yasmeenaalii30520055@gmail.com">yasmeenaalii30520055@gmail.com</a><br>
   🔗 LinkedIn: <a href="https://www.linkedin.com/in/yasmeen-abu-dib-011a8334a">in/yasmeen-abu-dib-011a8334a</a><br>
