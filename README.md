@@ -43,4 +43,5 @@ Android Application Development Student . </h3>
 <img align="right" src="https://github.com/SankshipthShetty/SankshipthShetty/assets/99337968/2bd05422-3a3b-4d7c-94a1-7cdb584c09d7" alt="Profile Image" width="300"/>
 <p align="center">
   <a href="https://github.com/NK-Works"><img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks%20For%20Visiting!%20😉;Take%20A%20Look%20at%20my%20Repositories%20⭐️👇;&font=Pacifico&center=true&width=650&height=100&color=58a6ff&vCenter=true&size=30"></a>
-</p>
+</p> 
+https://streak-stats.demolab.com?user=yasmeenali3012&theme=tokyonight&locale=en&mode=daily&hide_border=false&border_radius=5&order=3
