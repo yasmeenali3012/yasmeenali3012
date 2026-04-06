@@ -44,3 +44,6 @@ Android Application Development Student . </h3>
 <p align="center">
   <a href="https://github.com/NK-Works"><img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks%20For%20Visiting!%20😉;Take%20A%20Look%20at%20my%20Repositories%20⭐️👇;&font=Pacifico&center=true&width=650&height=100&color=58a6ff&vCenter=true&size=30"></a>
 </p> 
+<div align="center">
+  <img height="220" src="https://streak-stats.demolab.com?user=yasmeenali3012&locale=en&mode=daily&hide_border=false&border_radius=5&order=3" alt="streak graph" />
+</div>
