@@ -33,9 +33,9 @@ Android Application Development Student . </h3>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
 </p> 
-
-<div align="center"> 
  📫 Connect with Me
+<div align="center"> 
+
   <a href="mailto:yasmeenaalii30520055@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
