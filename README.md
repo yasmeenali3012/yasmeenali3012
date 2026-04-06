@@ -78,3 +78,4 @@ Android Application Development Student . </h3>
 </div>
  <a href="https://github.com/NK-Works"><img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks%20For%20Visiting!%20😉;Take%20A%20Look%20at%20my%20Repositories%20⭐️👇;&font=Pacifico&center=true&width=650&height=100&color=58a6ff&vCenter=true&size=30"></a>
 </p> 
+![Snake Animation](https://raw.githubusercontent.com/yasmeenali3012/output/github-contribution-grid-snake.svg)
