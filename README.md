@@ -13,10 +13,34 @@ Android Application Development Student . </h3>
 🌐 The transformative impact of computer technology fascinates me, bringing unforeseen changes to our lives. Since a young age, witnessing the evolution of computer science has fueled my passion for studying software engineering. 🚀 My enthusiasm has only grown over time. Exploring new tech stacks is my love 💻, and using them to craft cool stuff is my ultimate thrill! 🛠 Let's code the future together! 🌟</p>
 <p align="center"> </p>
 </div>
-<!-- <img align="right" alt="Coding" width="400" src="dnxempire.gif"> -->
-  
+<img align="right" alt="Coding" width="400" src="dnxempire.gif">
+  ### 📚 Learning Resources I Use
+<p align="left">
+  <img src="https://img.shields.io/badge/Al-Aqsa_University-1E3A8A?style=for-the-badge&logo=google-scholar&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Wes-02B3E4?style=for-the-badge&logo=udacity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white"/>
+</p>
+### 💻 Languages & Tools I Know (Basics)
+<p align="left">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <br>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
+</p>
+### 📫 Connect with Me
+<p align="left">
+  📧 Email: <a href="mailto:yasmeenaalii30520055@gmail.com">yasmeenaalii30520055@gmail.com</a><br>
+  🔗 LinkedIn: <a href="https://www.linkedin.com/in/yasmeen-abu-dib-011a8334a">in/yasmeen-abu-dib-011a8334a</a><br>
+  💬 Telegram Channel: <a href="https://t.me/Eng_Yasmeen_Ali3012">Coding 💻✨</a>
+</p>
+
 <img align="right" src="https://github.com/SankshipthShetty/SankshipthShetty/assets/99337968/2bd05422-3a3b-4d7c-94a1-7cdb584c09d7" alt="Profile Image" width="300"/>
 <p align="center">
   <a href="https://github.com/NK-Works"><img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks%20For%20Visiting!%20😉;Take%20A%20Look%20at%20my%20Repositories%20⭐️👇;&font=Pacifico&center=true&width=650&height=100&color=58a6ff&vCenter=true&size=30"></a>
 </p>
-<img align="right" src="https://github.com/SankshipthShetty/SankshipthShetty/assets/99337968/2bd05422-3a3b-4d7c-94a1-7cdb584c09d7" alt="Profile Image" width="300"/>
